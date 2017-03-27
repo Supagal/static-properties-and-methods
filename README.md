@@ -1,0 +1,1 @@
+# static-properties-and-methods
